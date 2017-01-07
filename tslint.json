@@ -1,0 +1,11 @@
+{
+  "extends": [
+    "@motorcycle/tslint"
+  ],
+  "rules": {
+    "no-shadowed-variable": false,
+    "max-line-length": [
+      120
+    ]
+  }
+}
