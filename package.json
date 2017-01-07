@@ -1,6 +1,6 @@
 {
   "name": "@typed/compose",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A well-typed compose function for TypeScript",
   "main": "lib/index.js",
   "jsnext:main": "lib.es2015/index.js",
