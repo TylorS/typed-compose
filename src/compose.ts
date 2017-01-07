@@ -63,4 +63,3 @@ function _compose5<A, B, C, D, E, F> (
     return j(i(h(g(f(a)))));
   };
 }
-
